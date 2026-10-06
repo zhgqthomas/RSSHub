@@ -5232,6 +5232,9 @@
   "/hotukdeals/:type": [
     "DIYgod"
   ],
+  "/hotukdeals/tag/:tag/:sort?": [
+    "zhgqthomas"
+  ],
   "/howtoforge/": [
     "cnkmmk"
   ],

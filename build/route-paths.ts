@@ -1660,6 +1660,7 @@ export type RoutePath =
   | `/hottoys/`
   | `/hotukdeals/:type`
   | `/hotukdeals/hottest`
+  | `/hotukdeals/tag/:tag/:sort?`
   | `/houxu/`
   | `/houxu/events`
   | `/houxu/lives/:id`
